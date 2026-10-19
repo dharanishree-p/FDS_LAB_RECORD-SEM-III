@@ -1,8 +1,6 @@
 # FDS_RECORD
 This repository contains 20 experiments for Fundamentals of Data Science (FDS), implemented and executed in Google Colab by me.
-experiments covered:
-Here is the list of experiments from the manual:
-
+experiments details:
 1. **Experiment 1.a:** Basic of pandas
 2. **Experiment 1.b:** Analyze the trend of data science job postings over the last decade for the given data on the number of data science job postings each year. Use pandas for data manipulation and matplotlib/seaborn for visualization.
 3. **Experiment 1.c:** Analyze and visualize the distribution of various data science roles (Data Analyst, Data Engineer, Data Scientist, etc.) from a dataset.
